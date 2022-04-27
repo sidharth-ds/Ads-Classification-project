@@ -1,6 +1,5 @@
-# Classification of social media Advertisement 
+# Classification of social media Advertisement (Deployed using Flask)
 * Classifying whether the target audience are more likely to buy the product.
-# Deployed using Flask
 
 ### Dataset:
 * The dataset contains 2 features (Age and Estimated Salary)
