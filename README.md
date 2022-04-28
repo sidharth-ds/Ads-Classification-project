@@ -3,7 +3,7 @@
 
 ### Dataset:
 * The dataset contains 2 features (Age and Estimated Salary)
-* Target variable is Purchased/Not purchased (Binary classification problem)
+* Target variable is Purchased/Not purchased (Binary classification problem).
 
 ### Modelling:
 * using Decision tree classifier
